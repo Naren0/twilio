@@ -1,17 +1,20 @@
 # **Twilio Communication API for SMS**
 
-                            (Spring boot implementation)
+_Sample programe to publish the messages via Twilio API using Spring boot implementation_
 
 ---
 
-- **Open and change the application.yml file**
-  > twilio:
-        1. account_sid: ~~#your account sid~~
-        2. auth_token: ~~#your auth token~~
-        3. trial_number: ~~# your trial number~~
+- **Open and change the `application.yml` file**
 
-* **Run the application**
+```yaml
+twilio:
+account_sid: #your account sid
+auth_token: #your auth token
+trial_number: # your trial number
+```
 
-* **Start sending sms's**
+- **Run the application**
+
+- **Start sending sms's**
 
 ---
