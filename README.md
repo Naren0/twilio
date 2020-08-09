@@ -5,11 +5,10 @@
 ---
 
 - **Open and change the application.yml file**
-
   > twilio:
-  > account_sid: #your account sid
-  > auth_token: #your auth token
-  > trial_number: # your trial number
+        1. account_sid: ~~#your account sid~~
+        2. auth_token: ~~#your auth token~~
+        3. trial_number: ~~# your trial number~~
 
 * **Run the application**
 
