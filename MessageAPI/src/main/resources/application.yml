@@ -1,11 +1,6 @@
 twilio:
-     account_sid: ACddd1cc58978a5d83c9dfa63be6d01aa0
-     auth_token: 210665c9aed8e0d4365273c1a160ba55
-     trial_number: +18163190874
-
-logging:
- level:
-   root: INFO 
-   com.naren.configuration: TRACE
+  account_sid: #your account sid
+  auth_token: #your auth token
+  trial_number: # your trial number
 
 
